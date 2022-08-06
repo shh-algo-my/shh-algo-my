@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Suraya and I'm a teacher at Algorithmics Malaysia 👩🏻‍🏫
+My name is Suraya and I'm a teacher 👩🏻‍🏫
 
 ![image](https://user-images.githubusercontent.com/108646990/183239827-6ed15477-3ce0-46af-9ffe-6d5030ee6472.png)
 
